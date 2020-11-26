@@ -1,3 +1,12 @@
+Forked from [lens.ts](https://github.com/utatti/lens.ts) since I couldn't contact the original author for fixes.
+
+To install, use
+```
+npm install @rakeshpai/lens.ts
+```
+
+Original readme follows.
+
 # lens.ts [![travis-ci](https://travis-ci.org/utatti/lens.ts.svg?branch=master)](https://travis-ci.org/utatti/lens.ts)
 
 TypeScript Lens implementation with property proxy
